@@ -1,1 +1,1 @@
-abd
+print('My student_id:18376255')
