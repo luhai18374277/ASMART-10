@@ -1,1 +1,2 @@
-123
+import os
+os.system('python function_19373798.py')
